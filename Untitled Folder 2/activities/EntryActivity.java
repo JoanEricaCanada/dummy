@@ -11,5 +11,6 @@ import com.example.joanericacanada.daybook.view.EntryFragment;
 public class EntryActivity extends FragmentLoader{
     protected Fragment createFragment(){
         return new EntryFragment();
+	//branch101
     }
 }
