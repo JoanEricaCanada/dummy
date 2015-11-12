@@ -5,6 +5,7 @@ import android.content.SharedPreferences;
 import android.util.Log;
 import android.widget.Toast;
 import android.widget.TextView;
+import android.widget.Button;
 
 import com.example.joanericacanada.daybook.R;
 
